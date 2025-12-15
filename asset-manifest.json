@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Priyankagit699/landing-page/static/css/main.42300d1c.css",
+    "main.js": "/Priyankagit699/landing-page/static/js/main.fee14427.js",
+    "static/media/image.png": "/Priyankagit699/landing-page/static/media/image.97ce8c0b045ea8c6aa22.png",
+    "static/media/about-background-image.png": "/Priyankagit699/landing-page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-image.png": "/Priyankagit699/landing-page/static/media/home-banner-image.47287929e17d04fecaf5.png",
+    "static/media/home-banner-background.png": "/Priyankagit699/landing-page/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/Priyankagit699/landing-page/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/Priyankagit699/landing-page/index.html",
+    "main.42300d1c.css.map": "/Priyankagit699/landing-page/static/css/main.42300d1c.css.map",
+    "main.fee14427.js.map": "/Priyankagit699/landing-page/static/js/main.fee14427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.fee14427.js"
+  ]
+}
